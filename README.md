@@ -14,6 +14,10 @@ Voici la liste des différents fichiers proposés dans REDMINE-TOOLS :
 			<td><b>CSV2MD.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier CSV en une table Markdown (MD).</td>
 		</tr>  
+		<tr>
+			<td><b>TSV2MD.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier TSV (Tab-Separated Values) en une table Markdown.</td>
+		</tr>	
 </table>
 
 <h2>Compilation</h2>
